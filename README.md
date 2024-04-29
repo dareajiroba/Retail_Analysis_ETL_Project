@@ -5,7 +5,7 @@
 - [Project Overview](#project-overview)
 - [Data Sources](#data-sources)
 - [Tools](#tools)
-- [Data Cleaning/Preparation](#data-cleaning/Preparation)
+- [Data Cleaning](#data-cleaning)
 - [Exploratory Data Analysis](#exploratory-data-analysis)
 
 ### Project Overview
@@ -32,7 +32,7 @@ The project has the following deliverables:
 - Excel
 - Power BI and Tableau (for Data Visualization and creating reports)
 
-### Data Cleaning/Preparation
+### Data Cleaning
 
 In the initial data preparation phase, we performed the following tasks:
 1. Data loading and inspection
