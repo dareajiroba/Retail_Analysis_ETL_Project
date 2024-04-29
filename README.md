@@ -53,4 +53,4 @@ This involved exploring the data for all the five (5) Business Processes to answ
 - Purchasing Manager needs to know the efficient vendors based on differential days between order date and delivery date
 - Sales Manager needs to know what are the most demanding products for each time period of the day
 - Employee misconducts analysis is requested by the management as part of the ongoing strategy to improved work ethics and customer satisfaction
-- Need to understand Employee Absence trends for performance appraisal and to proactively plan for new employee recruitment to meet the service expectation of Tesca customers
+- Need to understand Employee Absence trends for performance appraisal and to proactively plan for new employee recruitment to meet the service expectation of customers
