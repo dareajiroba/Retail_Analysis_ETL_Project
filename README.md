@@ -12,7 +12,7 @@
 
 This repository contains step by step ETL Pipeline and SQL Scripts to migrate Retail Data from multiple sources into a Staging area and from staging to a Central Data Warehouse Repository on a control framework.
 
-The project has the following deliverables:
+The deliverables for the project are as follows:
 
 - Build an Enterprise Data warehouse that addresses the analytic requirements
 - Build Data Mart Cubes for functional areas based on the analytic requirements using SQL Server Analysis Services (Using both Multidimensional and Tabular Models)
